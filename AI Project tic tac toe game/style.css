@@ -1,0 +1,8 @@
+html, body {
+    position: absolute;
+  right: 270px;
+  top: 40px;
+}
+canvas {
+  display: block;
+}
